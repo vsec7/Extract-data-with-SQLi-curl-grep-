@@ -14,7 +14,7 @@ curl --silent "http://m.sweetyboutique.com/product-detail.php?id=13584+and+0+/*"
 
 NB (penting) : 
 klo utk smisal ada waf yg perlu pake /*! Comment */
-Tanda ! Harus diginiin "\!" ya
+Tanda ```!``` Harus diginiin ```"\!"``` ya
 
 Result :
 
